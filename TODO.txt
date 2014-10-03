@@ -1,0 +1,50 @@
+To do
+=====
+
+[IN PROGRESS] Cooperation
+	[COMPLETED] Email all programmers
+	[COMPLETED] Add all programmers to organization
+	[IN PROGRESS] Ensure that all of next years programmers can do everything
+		[COMPLETED] Have them set up the field control system (hardware and software)
+		[NOT STARTED] After the competition, make sure they can write a basic working teleop
+	[COMPLETED] Show programmers TODO.txt, make sure they know to update it after every session next year
+	[COMPLETED] Force Robert to finish the Bluetooth Instructions.txt
+	[NOT STARTED] Talk to rest of team about having a place for all pictures and videos of robot
+
+[COMPLETED] Fix/Decrease lag
+	[COMPLETED] Test lag in program
+	[COMPLETED] Obtain router
+
+[ABORTED] Research math behind Vector drive
+	[ABORTED] Translation
+	[ABORTED] Rotation
+
+[IN PROGRESS] Notes
+	[COMPLETED] Add method for creating the ad hoc network to notes
+
+[WORKING] Omni drive
+	[COMPLETED] Translation
+	[COMPLETED] Rotation
+	[COMPLETED] Program it
+	[COMPLETED] Make the code somewhat understandable
+	[COMPLETED] Implement code that uses trigonometry to calculate wheel speeds
+	[NOT STARTED] Look at values printing on NXT to determine if scaling or trimming of TrigDrive is needed
+	[COMPLETED] Add other code to TrigDriv branch so it can be used normally
+	[NOT STARTED] Compare drive-ablity of two teleop controls
+	[COMPLETED] Merge / abandon TrigDrive branch
+
+[CAN PLACE BLOCKS] Autonomous
+	[COMPLETED] Reverse left/right direction if distance sensor reads a big jump (prevent driving off forever)
+	[IN PROGRESS] Branch off and add code to make robot drive onto ramp after placing block
+	[COMPLETED] Merge the zoom in autonomous into the main branch
+	[COMPLETED] Reduce delays in block placing code (squeeze out more time for driving onto ramp)
+
+[COMPLETED] Scrimmage
+	[COMPLETED] Make sure that the robot is running the omni1 teleop code until trig drive is complete
+	[COMPLETED] Add non-driving functions to TrigDrive and upload to robot
+	[COMPLETED] Ask about the flag raiser (motor has been mounted)
+
+[NOT STARTED] Competition
+	[COMPLETED] Make sure robot is using latest teleop code
+	[NOT STARTED] Make sure robot is using latest autonomous code
+	[NOT STARTED] Gather stats on other robots (check the form)

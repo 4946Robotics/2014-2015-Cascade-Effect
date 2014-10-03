@@ -1,0 +1,9 @@
+Team number:
+Team name:
+Drive system:
+Flag raising:
+Pull up bar:
+Block grabbing:
+Block placing:
+Autonomous Crate:
+Autonomous Ramp:

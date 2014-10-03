@@ -1,0 +1,37 @@
+IP Address 169.254.119.198
+Subnet Mask 255.255.255.255
+Default gateway 169.254.1.1
+(Note: the above addresses may change with the new computer)
+
+
+Procedure for connecting the Sammy:
+  Starting with the FTC_Pit network set up, and everything off.
+  1. Connect to the FTC_Pit network
+  2. Turn on the NXT and flip the on/off switch on the robot to "ON"
+  3. Start up the program "samofcs.exe" (field control system)
+  4. Press a button on controller 1
+  5. Press a button on controller 2
+  6. Click "OK" in the upper right hand corner of the samofcs window
+  7. Click "Choose" in 'current teams'
+  8. Double click on 4946
+  9. Click connect under 'current teams'
+  10. If the 'start match' button is yellow, run the program on the NXT
+  11. If the 'start match' button is green, you are connected and can start a match
+  12. If the 'start match' button is greyed out, press the 'load on deck' button
+
+
+Troubleshooting problems:
+
+Problem 1: Can't connect to the Sammy
+  1. If the Sammy is frozen and won't turn off, remove the battery and put it back in.
+  2. Are you running the program? (Make sure you're running teleop or autonomous)
+  3. Turn the NXT off and on
+  4. Close out of everything, disconnect from the Sammy. Turn the robot off and on, then reconnect.
+  5. Hold down the red button on the Sammy, and try to reconnect
+
+Problem 2: NXT & power lights are on, but can't connect with computer
+  1. Swap out which computer you're using to connect
+
+Problem 3: The NXT isn't responding, even when its buttons are pressed
+  1. Pull the batteries out of the back of the NXT
+  2. Put the batteries back in

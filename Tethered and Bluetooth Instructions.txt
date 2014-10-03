@@ -1,0 +1,22 @@
+Note:
+If you have spent 5 minutes or more trying to get the bluetooth to work, give up and use a usb cable.
+
+How to set up the bluetooth dongle
+==================================
+Plug in bluetooth dongles, wait for drivers to install, insert the disk, and wait for the program to install. You are done.
+
+How to connect to the NXT using the dongle
+==========================================
+Windows:
+Turn on the NXT. Check to make sure the NXT is bluetooth discoverable.
+In the lower right hand corner of the computer, in the system tray, there is a Bluetooth logo. Right click the icon and click "Add a device." When 4946 shows up, click it. 1234 will now show up on the NXT- press the orage button. Then enter 1234 in the input field on the conputer. Open up Labview and click "Find NXT" under "Chose NXT", and then scan. 4946 should show up. Press connect, and pray. You should connect.
+If you are having any problems, press "Show Bluetooth devices" instead of "Add a device" at the blutooth icon. Left-click 4946 once, and press "Remove device." Repeat above process.
+
+How to run a program on the NXT from the computer
+=================================================
+
+In Labview, in the robot project center, open the 'default configuration.rcc' file under Remote Control
+Once you get to that window, on the left sidebar, click "Run Program"
+Change the setting from Prototype to FTC Game
+Select your Teleop VI on that selector menu
+Start the test and enable the bot
